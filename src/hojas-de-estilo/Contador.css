@@ -1,0 +1,19 @@
+.contador {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db; /* Azul */
+    color: white;
+    border-radius: 50%; /* Hace que el div sea un círculo */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  }
+  
+  .contador h2 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;
+  }
