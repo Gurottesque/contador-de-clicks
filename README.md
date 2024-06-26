@@ -14,6 +14,9 @@ Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu máquina.
    Instala las dependencias:
    ```
 
+2. **link en vivo**
+   https://camilomunozal.github.io/contador-de-clicks/
+
 bash
 Copiar código
 npm install
