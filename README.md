@@ -1,6 +1,6 @@
 # Contador de Clicks en React
 
-Este es un proyecto sencillo de una aplicación de contador de clicks desarrollada en React.
+Este es un proyecto sencillo de una aplicación de contador de clicks desarrollada en React, se modificó el diseño para incluir una interfaz más amigable
 
 ## Instalación
 
